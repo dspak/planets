@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# No dat files
+*.dat
+
+# No results
+results/
+
